@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Part3
+comment0.text=\n\ Write\ a\ description\ of\ class\ Part3\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Part3()
+comment2.params=a\ b
+comment2.target=boolean\ twoOccurences(java.lang.String,\ java.lang.String)
+comment2.text=\n\ Method\ 1\ -\ twoOccurences\n\ Purpose\ of\ this\ method\ is\ to\ check\ if\ String\ a\ occurs\ 'at\ least\ twice'\ in\ String\ b\n\ Return\ true\ if\ it\ occurs\ >\=\ 2\ times\n\ Return\ false\ otherwise\n
+comment3.params=a\ b
+comment3.target=java.lang.String\ lastPart(java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=void\ testlastPart()
+comment4.text=\n\ Tester\ method\ to\ check\ if\ twoOccurences\ actually\ works\ correctly\n
+comment5.params=
+comment5.target=void\ testtwoOccurences()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

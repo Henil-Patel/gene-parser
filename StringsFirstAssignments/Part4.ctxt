@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Part4
+comment0.text=\n\ Write\ a\ description\ of\ class\ Part4\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=link
+comment1.target=java.lang.String\ YoutubeLink(java.lang.String)
+comment2.params=link
+comment2.target=java.lang.String\ extractLink(java.lang.String)
+comment3.params=
+comment3.target=void\ testYoutubeLink()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
